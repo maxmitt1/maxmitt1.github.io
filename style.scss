@@ -282,7 +282,9 @@ footer {
   float: left;
 
   @include mobile {
-    float: middle;
+    float: none;
+    display: block;
+    margin: 0 auto;
   }
 }
 
