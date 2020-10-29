@@ -11,7 +11,3 @@ I'm a fun guy. A-ha ha ha ha.
 
 I was born and raised in San Diego.
 I have two dogs and three fantasy football teams.
-
-### Contact me
-
-[mittlemanmax@gmail.com](mailto:mittlemanmax@gmail.com)
