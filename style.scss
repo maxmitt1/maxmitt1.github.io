@@ -277,7 +277,8 @@ nav {
   margin-top: 50px;
 
   @include mobile {
-    float: middle;
+    float: none;
+    display: block;
   }
 }
 
