@@ -17,13 +17,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  linkedin: max-mittleman
+  github: maxmitt1
   email: mittlemanmax@gmail.com
+  dribbble:
   facebook:
   flickr:
-  github: maxmitt1
   instagram:
-  linkedin: max-mittleman
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
