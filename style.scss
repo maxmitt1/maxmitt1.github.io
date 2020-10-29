@@ -182,6 +182,7 @@ img {
 
 .site-info {
   float: left;
+  font-weight: bold;
 
   @include mobile {
     float: none;
@@ -277,7 +278,7 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 10px 0;
   text-align: left;
 }
 
